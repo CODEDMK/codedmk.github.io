@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+* [Download English CV]
+
+
 Education
 ======
 * Ph.D in Building environment and energy engineering, The Hong Kong Polytechnic University, 2024
