@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "DMK's Personal Homepage"
+title                    : "DMK"
 title_separator          : "-"
 name                     : &name "DMK"
 description              : &description "personal description"
