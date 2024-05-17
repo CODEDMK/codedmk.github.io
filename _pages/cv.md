@@ -18,7 +18,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2021
 * B.S. in GitHub, GitHub University, 2018
 
-Work experience
+# Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
 * Fall 2015: Research Assistant
