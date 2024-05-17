@@ -14,7 +14,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Building environment and energy engineering, The Hong Kong Polytechnic University, 2024
+* Ph.D in Building Environment and Energy Engineering, The Hong Kong Polytechnic University, 2024
 * M.S. in Jekyll, GitHub University, 2021
 * B.S. in GitHub, GitHub University, 2018
 
