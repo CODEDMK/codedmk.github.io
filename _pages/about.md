@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). My research interest includes building environment, energy efficiency and flexibility, smart control, operation and maintenance.   
+I am a postdoctoral fellow at the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). My research interest includes building environment, energy efficiency and flexibility, smart control, operation and maintenance.   
