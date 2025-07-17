@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "DMK"
+title                    : "Mingkun DAI"
 title_separator          : "-"
-name                     : &name "DMK"
+name                     : &name "Mingkun DAI"
 description              : &description "personal description"
 url                      : https://codedmk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "dmk.png"
-  name             : "Mason"
+  name             : "Mingkun DAI"
   pronouns         : # example: "she/her"  
   bio              : "PolyU"
   location         : "Hong Kong"
