@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). My research interest includes building environment, energy efficiency, energy flexibility and AI for control and operation.
+I am a Postdoctoral Fellow at the [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). 
+My research interest includes building environment**, energy efficiency**, energy flexibility**, AI for control and operation**.
