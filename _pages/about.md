@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at [Department of Building Environment and Energy Engineering](https://www.polyu.edu.hk/beee/), [Research Institute for Smart Energy](https://www.polyu.edu.hk/rise/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/).
+I am a Postdoctoral Fellow at the [*Department of Building Environment and Energy Engineering*](https://www.polyu.edu.hk/beee/), [*Research Institute for Smart Energy*](https://www.polyu.edu.hk/rise/), [*The Hong Kong Polytechnic University*](https://www.polyu.edu.hk/).
 
 My research interest includes building environment, energy efficiency, energy flexibility, AI for control and operation.
 
