@@ -1,0 +1,19 @@
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#00369f"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#009f88"
+
+"COLT":
+  url: https://www.learningtheory.org/
+  color: "#ff6b35"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#7b2cbf"
+
+"JMLR":
+  url: https://www.jmlr.org/
+  color: "#000000"

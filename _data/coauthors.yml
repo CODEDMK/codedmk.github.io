@@ -1,0 +1,11 @@
+"Smith":
+  - firstname: ["Jane", "J."]
+    url: https://example.edu/faculty/janesmith
+
+"Doe":
+  - firstname: ["John", "J."]
+    url: https://example.edu/people/johndoe
+
+"Lee":
+  - firstname: ["Michael", "M."]
+    url: https://example.edu/people/michaellee

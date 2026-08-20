@@ -1,0 +1,15 @@
+_site/
+.DS_Store
+.agents/
+.bundle/
+.claude/
+.codex/
+.gemini/
+vendor/
+yandaichn.github.io-al-folio/
+CV.pdf
+_cv.pdf
+*.pdf
+!assets/pdf/CV.pdf
+!assets/img/avatar1.jpg
+!assets/img/favicon-y.svg

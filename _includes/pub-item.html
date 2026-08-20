@@ -1,0 +1,11 @@
+<li>
+  <div class="pub-meta"><span>{{ include.venue }}</span><span>{{ include.year }}</span></div>
+  <div class="pub-cover">
+    {%- if include.cover -%}
+    <img src="{{ include.cover }}" alt="{{ include.venue }} cover" class="pub-cover-img">
+    {%- endif -%}
+  </div>
+  <div class="pub-body">
+    {{ include.content | markdownify }}
+  </div>
+</li>

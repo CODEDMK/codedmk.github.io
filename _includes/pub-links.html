@@ -1,0 +1,27 @@
+{%- assign rows = include.links | newline_to_br | split: '<br />' -%}
+<div class="pub-links">
+  {%- for row in rows -%}
+    {%- assign item = row | strip -%}
+    {%- if item != "" -%}
+      {%- assign parts = item | split: "|" -%}
+      {%- assign label = parts[0] | strip -%}
+      {%- assign url = parts[1] | strip -%}
+      {%- assign kind = parts[2] | strip | default: "link" -%}
+      {%- assign icon = "fa-external-link-alt" -%}
+      {%- if kind == "paper" -%}
+        {%- assign icon = "fa-file-alt" -%}
+      {%- elsif kind == "abstract" -%}
+        {%- assign icon = "fa-file-alt" -%}
+      {%- elsif kind == "journal" -%}
+        {%- assign icon = "fa-book-open" -%}
+      {%- elsif kind == "slides" -%}
+        {%- assign icon = "fa-chalkboard-teacher" -%}
+      {%- elsif kind == "video" -%}
+        {%- assign icon = "fa-video" -%}
+      {%- endif -%}
+      <a class="pub-link pub-link-{{ kind }}" href="{{ url }}" target="_blank" rel="noopener">
+        <i class="fas {{ icon }}" aria-hidden="true"></i><span>{{ label }}</span>
+      </a>
+    {%- endif -%}
+  {%- endfor -%}
+</div>

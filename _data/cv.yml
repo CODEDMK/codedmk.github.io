@@ -1,0 +1,68 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Alex Chen
+    - name: Date of Birth
+      value: 1st January 2000
+    - name: Languages
+      value: English, Mandarin
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science
+      institution: University of Example, Example City
+      year: 2024 - Present
+      description:
+        - Advisor: Prof. Jane Smith
+        - Research areas: Machine Learning Theory, Optimization
+    - title: Bachelor's in Computer Science
+      institution: Example Institute of Technology
+      year: 2018 - 2022
+      description:
+        - Graduated with Honors (Top 5%)
+        - Thesis: "Optimal Algorithms for Stochastic Convex Optimization"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Tech Research Lab
+      year: Summer 2024
+      description:
+        - Worked on scalable optimization algorithms
+    - title: Teaching Assistant
+      institution: University of Example
+      year: 2024 - Present
+      description:
+        - CS 601: Introduction to Machine Learning
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Best Student Paper Award, Workshop on Learning Theory
+        - Best Paper Award, RL Workshop
+    - year: 2022
+      items:
+        - Outstanding Graduate, Example Institute of Technology
+        - Gold Medal, National Algorithm Competition
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Machine Learning Theory
+      items:
+        - Online Learning
+        - Optimization
+    - title: Reinforcement Learning
+      items:
+        - Exploration-Exploitation Trade-offs
+        - Markov Decision Processes
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hiking, Photography, Guitar
