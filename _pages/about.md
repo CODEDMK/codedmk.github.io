@@ -50,4 +50,4 @@ Oct 2019~Mar 2021 **Fault Detection and Diagnosis of Rail Vehicle’s Air-Condit
 
 **Conference Service**: Scientific committee member for Second International Conference on Digital Intelligence for Energy Systems (ICDIES 2026).
 
-**Journal Reviewing**: Science and technology for the built environment, Advanced Engineering Informatics, Energy for Sustainable Development, Energies.
+**Journal Reviewing**: Science and technology for the built environment, Advanced Engineering Informatics, Energy for Sustainable Development, Energies, Sustainability.
