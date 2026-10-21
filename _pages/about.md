@@ -25,6 +25,7 @@ My research focuses on the intersection of **building energy efficiency and flex
 
 # Recent News
 <ul class="news-list-lite">
+  <li><span class="news-date">Oct 2026</span><span><a href="https://doi.org/10.1016/j.buildenv.2026.115463">Configurable temperature and humidity compromise for demand limiting control of building cooling systems</a> accepted to <strong>Building and Environment</strong>.</span></li>  
   <li><span class="news-date">Jun 2026</span><span><a href="https://doi.org/10.1016/j.enconman.2026.121827">Optimal cooling supply and demand coordination of buildings for price-based demand response</a> accepted to <strong>Energy Conversion and Management</strong>.</span></li>
   <li><span class="news-date">May 2026</span><span><a href="https://doi.org/10.1016/j.renene.2026.125976">A decoupled demand response control strategy of building cooling systems for providing fast and precise flexibility services</a> accepted to <strong>Renewable Energy</strong>.</span></li>
   <li><span class="news-date">Dec 2025</span><span>Won the <strong>Individual competition winner</strong> at the FlexTrack Challenge 2025 - Competition of Detecting Energy Flexibility in Buildings.</span></li>
@@ -48,6 +49,6 @@ Oct 2019~Mar 2021 **Fault Detection and Diagnosis of Rail Vehicle’s Air-Condit
 # Professional Services (in progress)
 **Professional Memberships**: Member of the International Building Performance Simulation Association (IBPSA). Member of the International Society of Energy and Built Environment (ISEBE).
 
-**Conference Service**: Scientific committee member for Second International Conference on Digital Intelligence for Energy Systems (ICDIES 2026).
+**Conference Service**: Scientific committee member and section chair for Second International Conference on Digital Intelligence for Energy Systems (ICDIES 2026).
 
 **Journal Reviewing**: Science and technology for the built environment, Advanced Engineering Informatics, Energy for Sustainable Development, Energies, Sustainability.
