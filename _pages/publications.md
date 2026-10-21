@@ -12,6 +12,19 @@ Check my [Google Scholar profile](https://scholar.google.com.hk/citations?user=B
 # First Author
 <ul class="pub-list">
 {% capture pub %}
+<a class="pub-title" href="https://doi.org/10.1016/j.buildenv.2026.115463" target="_blank" rel="noopener">Configurable temperature and humidity compromise for demand limiting control of building cooling systems</a>  
+**<span class="author-highlight">Mingkun Dai</span>**, Hong Tang, Hangxin Li, and Shengwei Wang. 
+<details markdown="block">
+<summary>Abstract</summary>
+With the increasing volatility of modern power grids, commercial buildings are transitioning from passive consumers to active participants in proactive demand response. Fast demand limiting control of buildings is highly valuable for supporting the grid stability. However, rapid power curtailment often triggers undesirable fluctuations in indoor temperature and humidity, compromising occupant comfort. In the context of intensive building-to-grid interaction, achieving a precise power limiting target while simultaneously minimizing the degradation of the indoor thermal environment remains a critical and under-explored challenge. This study therefore proposes a hierarchical control optimization framework for building cooling systems to enable fast demand limiting control, which treats power limitation as the primary objective while optimizing the deviations in indoor temperature and relative humidity conditions. The proposed approach decomposes the demand limiting control process into three coordinated stages according to system response timescales, including (i) immediate chiller power reduction to achieve fast demand limiting, (ii) air flowrate optimization to mitigate indoor temperature and humidity deviations, and (iii) chilled water pump modulation for continuous and precise power regulation. Test results demonstrate that the proposed strategy can achieve fast and stable demand reduction within the required response period and reduce the post-event rebound peak by 19.5 % compared to conventional control approaches. Besides, configurable indoor environmental management is achieved for customized allocation of zone temperature and relative humidity sacrifices.
+</details>
+{% include pub-links.html links="
+SCI Q1 IF=8.4|https://www.sciencedirect.com/journal/building-and-environment
+" %}
+{% endcapture %}
+{% include pub-item.html venue="Building and Environment" year="2026" cover="/assets/img/BAE.jpg" content=pub %}
+  
+{% capture pub %}
 <a class="pub-title" href="https://doi.org/10.1016/j.enconman.2026.121827" target="_blank" rel="noopener">Optimal cooling supply and demand coordination of buildings for price-based demand response</a>  
 **<span class="author-highlight">Mingkun Dai</span>**, Hangxin Li, and Shengwei Wang.  
 <details markdown="block">
