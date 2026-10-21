@@ -49,6 +49,6 @@ Oct 2019~Mar 2021 **Fault Detection and Diagnosis of Rail Vehicle’s Air-Condit
 # Professional Services (in progress)
 **Professional Memberships**: Member of the International Building Performance Simulation Association (IBPSA). Member of the International Society of Energy and Built Environment (ISEBE).
 
-**Conference Service**: Scientific committee member and section chair for Second International Conference on Digital Intelligence for Energy Systems (ICDIES 2026), Guest editor for journal sprcial issue.
+**Conference Service**: Scientific committee member and section chair for Second International Conference on Digital Intelligence for Energy Systems (ICDIES 2026), Guest editor for journal special issue.
 
 **Journal Reviewing**: Science and technology for the built environment, Advanced Engineering Informatics, Energy for Sustainable Development, Energies, Sustainability.
